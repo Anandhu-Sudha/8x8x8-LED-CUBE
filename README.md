@@ -46,21 +46,26 @@ Now it comes to the circuitry, The circuit was built on a zero PCB as mentioned 
 ![image alt](https://github.com/Anandhu-Sudha/8x8x8-LED-CUBE/blob/b325d1225c014b2410e9a7c2a18c4c50596320fe/pictures/pcb2.jpg)
 
 <b>The first run</b> 
+
 The code is flashed to the UNO and turned on for the first time and Turned ON, Boom!... 
 
-(video)
+[(video)](https://github.com/user-attachments/assets/300dd0fe-a196-4067-a8f7-7cca10d2a679)
 
 Nothing happened...
 
 After a lot of debugging it turned out to be there was some problem with the MOSFET part, and I had to change it to normal Transistor circuit.
 
-Second Round
+<b>Second Round</b>
+
 (video)
+
 It turned on & was working, but the patterns were not properly coming...
 Pins had to be interchanged.
 
-Third Round 
+<b>Third Round</b> 
+
 (video)
+
 After interchanging some pins and LEDs Connection it was working fine.
 
 Now it's time to Seal everything up. It needed to cut the remaining piece of copper rods poking out.
@@ -76,3 +81,5 @@ So after packing everything up. The LED structure had no protection... So my dad
 This is the final look...
 
 ![image alt](https://github.com/Anandhu-Sudha/8x8x8-LED-CUBE/blob/b325d1225c014b2410e9a7c2a18c4c50596320fe/pictures/IMG20230527215621.jpg)
+
+Patterns
