@@ -57,7 +57,7 @@ After a lot of debugging it turned out to be there was some problem with the MOS
 
 <b>Second Round</b>
 
-(video)
+[(video)](https://drive.google.com/file/d/12NVJoLSZYk9Hq-yvoRzmwgOysk7fJ49X/view?usp=sharing)
 
 It turned on & was working, but the patterns were not properly coming...
 Pins had to be interchanged.
