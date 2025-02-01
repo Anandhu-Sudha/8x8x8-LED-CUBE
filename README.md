@@ -85,7 +85,8 @@ This is the final look...
 These are some of the patterns displaying in this cube.
 
 (The video is sped up and compressed)
-[(video)](https://github.com/user-attachments/assets/92b763bf-4a76-44c6-8a70-ccf026d2323d)
+
+[(video)](https://github.com/user-attachments/assets/b40409b2-8bb7-41dd-82b8-67ed53456bf3)
 
 All the images and videos mentioned are in the folder
 
