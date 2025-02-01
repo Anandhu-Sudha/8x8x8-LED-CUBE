@@ -57,14 +57,14 @@ After a lot of debugging it turned out to be there was some problem with the MOS
 
 <b>Second Round</b>
 
-[(video)](https://drive.google.com/file/d/12NVJoLSZYk9Hq-yvoRzmwgOysk7fJ49X/view?usp=sharing)
+[(video)](https://github.com/user-attachments/assets/f2771414-c46c-48be-b296-4da9434e2190)
 
 It turned on & was working, but the patterns were not properly coming...
 Pins had to be interchanged.
 
 <b>Third Round</b> 
 
-(video)
+[(video)](https://github.com/user-attachments/assets/b930d91a-4d84-49fa-a28e-5912cce9bdd6)
 
 After interchanging some pins and LEDs Connection it was working fine.
 
@@ -76,10 +76,11 @@ Usually I disassemble immediately everything and use it for some other projects 
 
 So after packing everything up. The LED structure had no protection... So my dad made a tranparent Cover with acrylic sheets for this Cube to enclose the LED structure. 
 
-(picture).
+![image alt](https://github.com/Anandhu-Sudha/8x8x8-LED-CUBE/blob/ff5febe2f79aa13f1d986d5d6d843b4f3fc04299/pictures/outer%20case.jpg)
 
 This is the final look...
 
 ![image alt](https://github.com/Anandhu-Sudha/8x8x8-LED-CUBE/blob/b325d1225c014b2410e9a7c2a18c4c50596320fe/pictures/IMG20230527215621.jpg)
 
-Patterns
+These are some of the patterns displaying in this cube.
+
